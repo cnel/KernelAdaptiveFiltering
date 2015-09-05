@@ -1,5 +1,5 @@
 # Kernel Adaptive Filtering: A Comprehensive Introduction
-![cover](./images/cover.png)  
+<img src="./images/cover.jpg" alt="cover" style="width: 200px;"/>  
 [Weifeng Liu](http://cnel.ufl.edu/people/people.php?name=wfliu), [Jose C. Principe](http://cnel.ufl.edu/people/people.php?name=principe), Simon Haykin.  
 John Wiley, 2010  
 
