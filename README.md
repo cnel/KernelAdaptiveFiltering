@@ -15,4 +15,4 @@ John Wiley, 2010
 
 ## Links
 * The [book](http://www.amazon.com/gp/product/0470447532?ie=UTF8&tag=weiswebsit-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470447532) at Amazon
-* A python implementation of the Kernel Adaptive Algorithm following sci-kit learn's API is being developed [here](https://github.com/EderSantana/adaptive_kernel_methods).
+* A python implementation of the Kernel Adaptive Algorithm following scikit-learn's API is being developed [here](https://github.com/EderSantana/adaptive_kernel_methods).
