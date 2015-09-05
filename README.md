@@ -4,7 +4,7 @@
 John Wiley, 2010
 
 ## Code by chapter
-1. [Background and Preview](./samples/chapter1.pdf)
+1. [Background and Preview](./samples/chapter1.pdf) (sample chapter)
 2. [Kernel least-mean-square Algorithm](./ch2_codes)
 3. [Kernel Affine Projection Algorithms](./ch3_codes)
 4. [Kernel Recursive Least-Squares Algorithm](./ch4_codes)
